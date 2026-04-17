@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 70fd917760c5700e87ca8e38fa08380a61582a6e M4nvid <manvid.prigrano@gmail.com> 1776055642 +0300	commit (initial): A: Made the Screen
+70fd917760c5700e87ca8e38fa08380a61582a6e 6d4dc5e495d10fed9606ba533dea23b29b37da17 M4nvid <manvid.prigrano@gmail.com> 1776139978 +0300	commit: B: Added a frame cap
+6d4dc5e495d10fed9606ba533dea23b29b37da17 3d49c1cff4ab1fcf44f03cbc7946f2feb3fed8e8 M4nvid <manvid.prigrano@gmail.com> 1776225280 +0300	commit: C: made circleshape.py
+3d49c1cff4ab1fcf44f03cbc7946f2feb3fed8e8 0f72bad90fba5ede902733735f5be11240db2667 M4nvid <manvid.prigrano@gmail.com> 1776321115 +0300	commit: D: Added The Player
+0f72bad90fba5ede902733735f5be11240db2667 3f5273fd06be2cf97815f56dc614ae9a19153304 M4nvid <manvid.prigrano@gmail.com> 1776321792 +0300	commit: E: The Player Turns
+3f5273fd06be2cf97815f56dc614ae9a19153304 9ea119eb08378aaa098d02c7c42dc86467ab0c2f M4nvid <manvid.prigrano@gmail.com> 1776322457 +0300	commit: F: The Player Moves
+9ea119eb08378aaa098d02c7c42dc86467ab0c2f 487f2f4b2c1c769bff64dd3ddbc26ae5f8b4dadc M4nvid <manvid.prigrano@gmail.com> 1776323202 +0300	commit: G: Groups added
+487f2f4b2c1c769bff64dd3ddbc26ae5f8b4dadc 6cfac473ee044cbe7b83e9411c0caa8f8745085d M4nvid <manvid.prigrano@gmail.com> 1776404155 +0300	commit: H: The Asteroids appear
+6cfac473ee044cbe7b83e9411c0caa8f8745085d d582c5c3dc5dbfd5f925f4c5b424695a96c29d60 M4nvid <manvid.prigrano@gmail.com> 1776405703 +0300	commit: I: The Asteroids Hurt
